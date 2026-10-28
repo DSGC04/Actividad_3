@@ -3,7 +3,6 @@ package competencia;
 import java.util.ArrayList;
 
 public class Catalogo {
-
 	private ArrayList<Competidor>listaDeCompetidor=new ArrayList<>();
 	private ArrayList<Categoria>listaDeCategoria=new ArrayList<>();
 	
@@ -38,5 +37,6 @@ public class Catalogo {
 	public void setListaDeCategoria(ArrayList<Categoria> listaDeCategoria) {
 		this.listaDeCategoria = listaDeCategoria;
 	}
-	
+
+
 }
