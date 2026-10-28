@@ -2,9 +2,9 @@ package competencia;
 
 public class Competidor {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	private String nombreDelCompetidor;
+	private byte numeroDeCarrera;
+	private String genero;
+	private categoria;
+	private carrera
 }
