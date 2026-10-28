@@ -10,7 +10,7 @@ public class Catalogo {
 		listaDeCompetidor.add(competidor);
 	}
 	
-	public void elimarCompetidor(Competidor competidor) {
+	public void eliminarCompetidor(Competidor competidor) {
 		listaDeCompetidor.remove(competidor);
 	}
 	
